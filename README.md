@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Aspiring Electronics Engineering student building skills in Java, DSA, and full-stack web development, with<br>hands-on experience in IoT, AI-driven projects, and hardware–software integration. Passionate about<br>problem-solving and innovation; enjoys travelling and dancing, reflecting creativity and adaptability.
 
 
